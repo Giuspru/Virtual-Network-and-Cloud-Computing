@@ -14,21 +14,21 @@ University Course
 ## Lesson2: Software Defined Netowrking
 
 ## Lesson3: Introduction to Cloud Computing
-	- IaaS, PaaS, SaaS
-	- Cloud Computing architectures
+- IaaS, PaaS, SaaS
+- Cloud Computing architectures
 
 ## Lesson4: cloud provider
-	- Virtualization Technologies
-	- OpenStack
-	- Examples
+- Virtualization Technologies
+- OpenStack
+- Examples
 
 
 ## Lesson5: Virtual Networks
-	- VxLAN
-	- Overlay Netoworks
+- VxLAN
+- Overlay Netoworks
 
 
 ## Lesson6: Cloud Ibride
-	- Public Cloud, dedicate, hosted, private
-	- Hybrid scenarios (prem-on cloud, cross clouds, legacy apps & cloud apps, micro cloud e cloud brokerage)
-	- Exmples
+- Public Cloud, dedicate, hosted, private
+- Hybrid scenarios (prem-on cloud, cross clouds, legacy apps & cloud apps, micro cloud e cloud brokerage)
+- Exmples
