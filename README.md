@@ -21,6 +21,21 @@ University Course
 	- MAC address
 	- Switch & MAC address tables
 	- Time to live 
+
+
+### 20/02/2025
+- IPV4
+- IP Address Structures
+- Private IP adresses
+- NAT
+- NAPT
+- Subnetting
+- ICMP
+- ARP
+- Routing
+- IP Routing Tables
+- Longest Matching
+- TCP & UDP
 ## Lesson1: Virtualization 
 
 ## Lesson2: Software Defined Netowrking
