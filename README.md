@@ -38,7 +38,7 @@ University Course
 - TCP & UDP
 
 
-### 24/02/2025
+### 25/02/2025
 - Background on security principles and protocols
 - Network Security
 - Zero Trust methodology
