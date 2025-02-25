@@ -36,6 +36,21 @@ University Course
 - IP Routing Tables
 - Longest Matching
 - TCP & UDP
+
+
+### 24/02/2025
+- Background on security principles and protocols
+- Network Security
+- Zero Trust methodology
+- SaaS , PaaS , Iaas
+- Common Threats
+- Encryption
+- Symmetric and Asymmetric encryption
+- Hashing
+- RSA algorithm
+- Replication attacks (playback)
+- Digital Signatures
+- examples
 ## Lesson1: Virtualization 
 
 ## Lesson2: Software Defined Netowrking
