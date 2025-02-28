@@ -54,6 +54,13 @@ University Course
 
 
 ### 27/02/2025
+- Virtualization
+- Virtual Machiine Monitor, Dispatcher, Allocator, Interpreters
+- Hypervisors
+- Type 1 
+- Type 2
+- Containers
+
 
 ## Lesson1: Virtualization 
 
