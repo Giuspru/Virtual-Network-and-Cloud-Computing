@@ -51,6 +51,10 @@ University Course
 - Replication attacks (playback)
 - Digital Signatures
 - examples
+
+
+### 27/02/2025
+
 ## Lesson1: Virtualization 
 
 ## Lesson2: Software Defined Netowrking
