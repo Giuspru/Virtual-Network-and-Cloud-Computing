@@ -63,6 +63,16 @@ University Course
 
 ### 03/03/2025
 - Virtual Extensible LAN
+- Orizontal and Vertical implementation
+- Data Center features
+- Uni/Multi tenant
+- VXLAN
+- Underlay and Overlay Networks
+- Tunnelling techniques
+- VXLAN packets format
+- Forwarding Mechanisms
+- BUM packets
+- Ethernet VPN (EVPN)
 
 
 ## Lesson1: Virtualization 
