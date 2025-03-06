@@ -74,6 +74,19 @@ University Course
 - BUM packets
 - Ethernet VPN (EVPN)
 
+### 06/03/2025
+- Corrections on the previous lesson
+- Gateways 
+- Kubernetes
+- pods
+- Kubernetes Architecture
+- Master and Worker Nodes
+- Runtime Interface
+- Example: creating a simple pod
+- Volumes
+
+
+
 
 ## Lesson1: Virtualization 
 
