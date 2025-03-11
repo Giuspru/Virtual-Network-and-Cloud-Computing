@@ -85,6 +85,18 @@ University Course
 - Example: creating a simple pod
 - Volumes
 
+### 11/03/2025
+- Volumes
+- Namespaces
+- Sidecar containers example
+- Controllers
+- Workload Resources
+- Replication Controller
+- Replica Set
+- Stateful Set
+- daemon sets
+
+
 
 
 

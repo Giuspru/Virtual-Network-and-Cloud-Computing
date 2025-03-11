@@ -1,0 +1,17 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: job1
+spec:
+  completions: 3  # Ensures the job runs 3 separate times
+  parallelism: 1  # Runs one pod at a time (can be increased)
+  template:
+    metadata:
+      labels:
+        job: example-job
+    spec:
+      restartPolicy: Never
+      containers:
+        - name: busybox-job
+          image: busybox:latest
+          command: ["/bin/sh", "-c", "echo 'Hello from Kubernetes Job!'; sleep 10; echo 'Job Completed!'"]
