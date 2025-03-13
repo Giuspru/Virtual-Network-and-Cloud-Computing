@@ -104,6 +104,12 @@ University Course
 - Lable 
 - Selector
 - Handling Resources
+- ConfigMaps 
+- Secrets
+- Kubernetes Networking Model
+- Docker vs Container runtimes
+- Calico CNI
+
 
 
 
