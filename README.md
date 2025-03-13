@@ -96,6 +96,16 @@ University Course
 - Stateful Set
 - daemon sets
 
+### 13/03/2025
+- Recap
+- Deployments
+- Rollout updates
+- Rollback
+- Lable 
+- Selector
+- Handling Resources
+
+
 
 
 
