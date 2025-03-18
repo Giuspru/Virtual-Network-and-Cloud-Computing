@@ -110,6 +110,15 @@ University Course
 - Docker vs Container runtimes
 - Calico CNI
 
+### 18/03/2025
+- Recap
+- IP-in-IP 
+- VxLAN
+- Vxlan in Calico
+- obejets
+- Service
+- Nodeport Service
+
 
 
 
