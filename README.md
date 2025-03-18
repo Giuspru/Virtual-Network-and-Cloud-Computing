@@ -118,6 +118,10 @@ University Course
 - obejets
 - Service
 - Nodeport Service
+- Load Balancer Service
+- External Service
+- Ingress service
+
 
 
 
