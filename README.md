@@ -122,8 +122,19 @@ University Course
 - External Service
 - Ingress service
 
-
-
+### 20/03/2025
+- Serverless Computing and OpenfaaS
+- Faas
+- Kubernetes and Serverless
+- Basic Workflow
+- WatchDog
+- Classic WatchDog
+- OF WatchDog
+- Use of Connection (Uso delle Code tipo Kafka)
+- Kafka connector
+- Autoscaling
+- Scaling up from 0 (cold start)
+- 
 
 
 
