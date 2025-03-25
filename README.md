@@ -134,7 +134,22 @@ University Course
 - Kafka connector
 - Autoscaling
 - Scaling up from 0 (cold start)
-- 
+
+
+### 25/03/2025
+- Recap
+- Markov Processes and Markov Queues
+- Service Models
+- Loss oriented systems
+- Delay oriented systems
+- System time diagram
+- Model of a queueing system
+- Kendal Notation
+- Little's Law
+- Utilization Factor.
+- Chapman-Kolmogorov Equations
+- Rate Matrix
+
 
 
 
