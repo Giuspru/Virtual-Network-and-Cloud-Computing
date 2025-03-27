@@ -150,6 +150,13 @@ University Course
 - [ ] Chapman-Kolmogorov Equations
 - [ ] Rate Matrix
 
+### 27/03/2025:
+- [x] Recap
+- [ ] Homogeneous Markov Chains
+- [ ] Properties of Markov Chains
+
+
+
 
 
 
