@@ -154,6 +154,8 @@ University Course
 - [x] Recap
 - [ ] Homogeneous Markov Chains
 - [ ] Properties of Markov Chains
+- [ ] Birth and Death Processes
+- [ ] Poisson Distribution
 
 
 
