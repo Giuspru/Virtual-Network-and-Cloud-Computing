@@ -9,18 +9,18 @@ University Course
 
 ## Introduction to Teaching and Review of IP Networking 
 ### 17/02/2025:Overview of Networking
-	- [ ] OSI 
-	- [ ] TCP/IP reference model
-	- [ ] Ip protocol
-	- [ ] Application layer
-	- [ ] Transport layer
-	- [ ] Network Layer
-	- [ ] Data link layer
-	- [ ] Physical layer
-	- [ ] Ethernet protocols: Broadcast domain & Collision domain
-	- [ ] MAC address
-	- [ ] Switch & MAC address tables
-	- [ ] Time to live 
+- [ ] OSI 
+- [ ] TCP/IP reference model
+- [ ] Ip protocol
+- [ ] Application layer
+- [ ] Transport layer
+- [ ] Network Layer
+- [ ] Data link layer
+- [ ] Physical layer
+- [ ] Ethernet protocols: Broadcast domain & Collision domain
+- [ ] MAC address
+- [ ] Switch & MAC address tables
+- [ ] Time to live 
 
 
 ### 20/02/2025
