@@ -137,16 +137,16 @@ University Course
 
 
 ### 25/03/2025
-- [ ] Recap
-- [ ] Markov Processes and Markov Queues
-- [ ] Service Models
-- [ ] Loss oriented systems
-- [ ] Delay oriented systems
-- [ ] System time diagram
-- [ ] Model of a queueing system
-- [ ] Kendal Notation
-- [ ] Little's Law
-- [ ] Utilization Factor.
+- [x] Recap
+- [x] Markov Processes and Markov Queues
+- [x] Service Models
+- [x] Loss oriented systems
+- [x] Delay oriented systems
+- [x] System time diagram
+- [x] Model of a queueing system
+- [x] Kendal Notation
+- [x] Little's Law
+- [x] Utilization Factor.
 - [ ] Chapman-Kolmogorov Equations
 - [ ] Rate Matrix
 
