@@ -174,4 +174,17 @@ University Course
 - [ ] Discrete vs Continuous Action Spaces
 - [ ] Reward and Discounting
 
+### 10/04/2025:
+- [ ] Recap
+- [ ] Exploration vs Exploitation
+- [ ] Policies and values functions
+- [ ] Policy-based Methods
+- [ ] Value-based Methods
+- [ ] State Value anf Action Value Functions
+- [ ] Bellman Equations
+- [ ] SARSA
+- [ ] Q-learning
+- [ ] Off-policy vs On-policy
+- [ ] Deep Q-learning
+
  
