@@ -187,4 +187,16 @@ University Course
 - [ ] Off-policy vs On-policy
 - [ ] Deep Q-learning
 
+
+### 15/04/2025:
+ - [ ] Recap
+ - [ ] From Q-Learning to Deep Q-Learning
+ - [ ] Deep Q-Learning algorithm
+ - [ ] DQN workflow
+ - [ ] Policy based methods
+ - [ ] Policy Gradient & Policy Methods
+ - [ ] Policy Gradient Theorem
+ - [ ] A2c
+ - [ ] Proximal policy optimization
+ - [ ] Total Loss Function
  
