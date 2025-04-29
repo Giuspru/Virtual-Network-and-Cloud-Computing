@@ -200,3 +200,5 @@ University Course
  - [ ] Proximal policy optimization
  - [ ] Total Loss Function
  
+### 29/04/2025:
+- [ ] Recording and recovery
